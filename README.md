@@ -8,4 +8,4 @@ We want to create an archive with job offers
 
 We want to exchange knowledge and learn new things in our free time
 
-![](https://cdn-icons-png.flaticon.com/256/1488/1488581.png)
+![](icon.png)
