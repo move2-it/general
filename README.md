@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/move2-it/wiki/blob/K-6/add-project-icon/assets/icon.png?raw=true">
+</p>
+
 # move2.it
 
 ## What are we going to do?
