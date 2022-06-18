@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/move2-it/wiki/blob/main/assets/icon.png?raw=true">
+  <img src="./assets/icon.png">
 </p>
 
 # move2.it
