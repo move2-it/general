@@ -1,5 +1,5 @@
 <p align="center">
-<img width="160" src="https://github.com/move2-it/wiki/blob/K-6/add-project-icon/assets/icon.png?raw=true">
+  <img src="https://github.com/move2-it/wiki/blob/K-6/add-project-icon/assets/icon.png?raw=true">
 </p>
 
 # move2.it
@@ -11,8 +11,3 @@ We want to create an archive with job offers
 ## Why are we doing this?
 
 We want to exchange knowledge and learn new things in our free time
-
-img[src*='#center'] {
-display: block;
-margin: 100px;
-}
