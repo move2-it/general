@@ -1,6 +1,8 @@
+# Architecture
+
 ```mermaid
   graph TB
-      A(Agent) -->|Fetch jobs| B[External API]
+      A(Agent) -->|Fetch jobs| B[Data source]
       subgraph INTERNAL
           A(Agent) -->|Push new jobs| C>Queue]
           D(Manager) -->|Pull jobs| C>Queue]
