@@ -15,3 +15,4 @@ We want to exchange knowledge and learn new things in our free time
 ## Links
 
 * [Architecture](Architecture.md)
+* [Monitoring and observability](Monitoring.md)
