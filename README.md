@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/icon.png">
-</p>
+![move2.it](assets/icon.png)
 
 # move2.it
 
