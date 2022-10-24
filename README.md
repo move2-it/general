@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/icon.png">
-</p>
+![move2.it](assets/icon.png)
 
 # move2.it
 
@@ -15,3 +13,4 @@ We want to exchange knowledge and learn new things in our free time
 ## Links
 
 * [Architecture](Architecture.md)
+* [Monitoring and observability](Monitoring.md)
